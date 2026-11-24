@@ -1,0 +1,7 @@
+{
+    "name": "BR_INA228-Library",
+    "version": "1.0.0",
+    "description": "C++ driver for the INA228 Power Monitor",
+    "frameworks": ["arduino"],
+    "platforms": "*"
+}
